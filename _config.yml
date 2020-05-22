@@ -1,13 +1,13 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Anh
+subtitle: Bui
+email: buianh.neuer@gmail.com
+description: If I Fail, <br/>I Try Again And Again, And Again.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
+street_address: Quoc Oai, HaNoi
+city: HaNoi
 state: TN
 zip_code: 55555
 country: United States of America
