@@ -2,7 +2,7 @@
 layout: post
 title: Chuyện động lực 
 description: Động lực hôm nay, thành quả ngày mai  
-image: 67762887_345922976353662_2549829084708339712_o.jpg
+image: assets/image/67762887_345922976353662_2549829084708339712_o.jpg
 ---
 
 Cách đây 3 năm, tôi nhận được thông báo mình đạt 26 điểm kì thi đại học, tôi rạng rỡ. Vậy là tôi đã đặt chân vào trường đại học Kinh tế Quốc dân. Đó là điều mà bố mẹ tôi vẫn hay ”khoe”, thậm chí có chút tự hào khi nói chuyện với hàng xóm và một số người thân khi  hỏi han về tôi. Còn tôi, tôi chỉ tự nhủ “Mày làm được rồi” và đó cũng là câu đầu tiên thằng bạn gọi chúc mừng tôi. 
