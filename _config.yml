@@ -34,3 +34,14 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+lsi: false
+safe: true
+source: https://buianhluyenthuyen.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
