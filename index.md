@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Bui Anh'
+landing-title: 'Chào bạn! Ở đây là chuyện của Bùi'
 description: null
 image: null
 author: null
